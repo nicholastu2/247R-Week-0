@@ -29,7 +29,7 @@ class Main {
 
  //         (Try this without using extra space). Hint:   .toCharArray();
  public static Boolean isPalindrome(String string){
-   
+   return true;
  }
 
 
